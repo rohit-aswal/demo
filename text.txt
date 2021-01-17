@@ -1,2 +1,3 @@
 this is my first project
 this is my modified text
+finally i was able to push my repo in github after error
